@@ -1,0 +1,4 @@
+streamlit==1.29.0
+openai-whisper==20231117
+soundfile==0.12.1
+librosa==0.10.1
